@@ -1,0 +1,1 @@
+:root{--top-height:100px;--left-width:clamp(200px,15vw,500px);--main-min-width:500px;--main-max-width:800px;--left-align-margin:5vw;--main-top-margin:50px}*{padding:0;margin:0;font-family:Times New Roman,Times,serif;color:#8d8d8d}.button{cursor:pointer}.button:hover{color:#5d5de6}img{max-width:100%}p>span{display:block;padding-bottom:.5em}img+p{margin-top:5em}b{color:#747474}
